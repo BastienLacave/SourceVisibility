@@ -1,0 +1,66 @@
+2024-01-03 21:36:12,906 [INFO] sst1mpipe version: 0.3.0.dev0
+2024-01-03 21:36:12,972 [INFO] Making IRFs for telescope stereo
+2024-01-03 21:36:12,972 [INFO] Getting MC info for /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/DL2_psf_vaod0.2/stereo/gamma_200_300E3GeV_20_20deg_testing_dl1_dl2.h5
+2024-01-03 21:37:35,169 [WARNING] There was a cut on energy applied on this DL2 file, which doesnt correspond with 'energy_range_min' in MC DL2 tab).
+THE TOTAL NUMBER OF SIMULATED EVENTS WILL BE RECALCULATED FOR SPECTRAL REWEIGHTING.
+2024-01-03 21:37:35,255 [INFO] Number of different MC productions combined: 2
+2024-01-03 21:37:35,342 [INFO] Correcting simulated e min in 2500 files out of 7500 files.
+2024-01-03 21:37:35,342 [INFO] N of simulated showers in original interval (0.050000, 300.000000): 50000000
+2024-01-03 21:37:35,342 [INFO] N of simulated showers in new interval (0.200000, 300.000000): 12493749
+2024-01-03 21:37:35,514 [INFO] SANITY CHECK: Exact number of simulated events above 0.19953 TeV: 12526460
+2024-01-03 21:37:35,515 [INFO] Difference [%/100]: 0.002611
+2024-01-03 21:37:35,516 [INFO] For 5000 files out of 7500 the energy cut is lower or equal than simulated, and the number of total simulated events dont have to be corrected.
+2024-01-03 21:37:35,516 [INFO] Total corrected number of simulated events: 312493749
+2024-01-03 21:37:35,527 [INFO] Input file: /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/DL2_psf_vaod0.2/stereo/gamma_200_300E3GeV_20_20deg_testing_dl1_dl2.h5
+2024-01-03 21:37:35,632 [INFO] Total N of events of stereo: 393569
+2024-01-03 21:37:35,632 [INFO] Performing event selection.
+2024-01-03 21:37:35,632 [INFO] Application of selection cuts:
+2024-01-03 21:37:35,632 [INFO] camera_frame_hillas_intensity_tel1: [50, 1000000]
+2024-01-03 21:37:35,640 [INFO] camera_frame_hillas_intensity_tel2: [50, 1000000]
+2024-01-03 21:37:35,649 [INFO] camera_frame_hillas_width_tel1: [0, 100]
+2024-01-03 21:37:35,657 [INFO] camera_frame_hillas_width_tel2: [0, 100]
+2024-01-03 21:37:35,665 [INFO] camera_frame_hillas_length_tel1: [0, 100]
+2024-01-03 21:37:35,673 [INFO] camera_frame_hillas_length_tel2: [0, 100]
+2024-01-03 21:37:35,682 [INFO] leakage_intensity_width_2_tel1: [0, 0.7]
+2024-01-03 21:37:35,690 [INFO] leakage_intensity_width_2_tel2: [0, 0.7]
+2024-01-03 21:37:35,902 [INFO] N of events of stereo after selection cuts: 323134
+2024-01-03 21:37:35,902 [INFO] DL2 data loaded as Astropy Table.
+2024-01-03 21:37:35,902 [INFO] Input file: /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/DL2_psf_vaod0.2/stereo/proton_400_500E3GeV_20_20deg_testing_dl1_dl2.h5
+2024-01-03 21:37:36,436 [INFO] Total N of events of stereo: 2792741
+2024-01-03 21:37:36,436 [INFO] Performing event selection.
+2024-01-03 21:37:36,437 [INFO] Application of selection cuts:
+2024-01-03 21:37:36,437 [INFO] camera_frame_hillas_intensity_tel1: [50, 1000000]
+2024-01-03 21:37:36,490 [INFO] camera_frame_hillas_intensity_tel2: [50, 1000000]
+2024-01-03 21:37:36,542 [INFO] camera_frame_hillas_width_tel1: [0, 100]
+2024-01-03 21:37:36,594 [INFO] camera_frame_hillas_width_tel2: [0, 100]
+2024-01-03 21:37:36,647 [INFO] camera_frame_hillas_length_tel1: [0, 100]
+2024-01-03 21:37:36,699 [INFO] camera_frame_hillas_length_tel2: [0, 100]
+2024-01-03 21:37:36,752 [INFO] leakage_intensity_width_2_tel1: [0, 0.7]
+2024-01-03 21:37:36,801 [INFO] leakage_intensity_width_2_tel2: [0, 0.7]
+2024-01-03 21:37:38,394 [INFO] N of events of stereo after selection cuts: 2266030
+2024-01-03 21:37:38,395 [INFO] DL2 data loaded as Astropy Table.
+2024-01-03 21:37:38,395 [INFO] Getting MC info for /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/DL2_psf_vaod0.2/stereo/proton_400_500E3GeV_20_20deg_testing_dl1_dl2.h5
+2024-01-03 21:37:43,573 [WARNING] Sum of histograms for production with e_min: 0.400000 doesn't match with n_showers*shower_reuse stored in the mc tab!!
+2024-01-03 21:37:43,575 [WARNING] CORRECTION OF SHOWER_REUSE APPLIED. New value: 100.000000
+2024-01-03 21:37:56,713 [WARNING] There was a cut on energy applied on this DL2 file, which doesnt correspond with 'energy_range_min' in MC DL2 tab).
+THE TOTAL NUMBER OF SIMULATED EVENTS WILL BE RECALCULATED FOR SPECTRAL REWEIGHTING.
+2024-01-03 21:37:56,993 [INFO] Number of different MC productions combined: 2
+2024-01-03 21:37:57,266 [INFO] Correcting simulated e min in 10400 files out of 26400 files.
+2024-01-03 21:37:57,267 [INFO] N of simulated showers in original interval (0.100000, 500.000000): 416000000
+2024-01-03 21:37:57,267 [INFO] N of simulated showers in new interval (0.400000, 500.000000): 103937589
+2024-01-03 21:37:57,866 [INFO] SANITY CHECK: Exact number of simulated events above 0.39811 TeV: 104398440
+2024-01-03 21:37:57,867 [INFO] Difference [%/100]: 0.004414
+2024-01-03 21:37:57,870 [INFO] For 16000 files out of 26400 the energy cut is lower or equal than simulated, and the number of total simulated events dont have to be corrected.
+2024-01-03 21:37:57,871 [INFO] Total corrected number of simulated events: 3303937589
+2024-01-03 21:37:59,232 [INFO] 195255 gamma events after selection
+2024-01-03 21:37:59,232 [INFO] 63446 proton events after selection
+2024-01-03 21:37:59,236 [INFO] Average pointing: zenith: 20.000000, azimuth: 175.196306
+2024-01-03 21:37:59,236 [INFO] Range of zeniths: 0.000000
+2024-01-03 21:37:59,236 [INFO] Range of azimuths: 0.000000
+2024-01-03 21:37:59,277 [INFO] Making Effective area (full enclosure).
+2024-01-03 21:37:59,320 [INFO] Making Point Spread Function.
+2024-01-03 21:37:59,353 [WARNING] VerifyWarning: Keyword name 'point_like' is greater than 8 characters or contains characters not allowed by the FITS standard; a HIERARCH card will be created.
+2024-01-03 21:37:59,372 [INFO] Making Energy dispersion matrix.
+2024-01-03 21:37:59,417 [INFO] Making Background model.
+2024-01-03 21:37:59,558 [INFO] Created the output directory which didnt exist.
+2024-01-03 21:37:59,776 [INFO] IRFs stored in: /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/IRFs/data//sst1m_stereo/0_3/bcf/ze20_az180_nsb100_gc0.75/

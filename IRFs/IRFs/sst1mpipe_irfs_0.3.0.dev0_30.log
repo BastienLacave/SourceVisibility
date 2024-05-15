@@ -1,0 +1,46 @@
+2024-01-03 21:26:51,450 [INFO] sst1mpipe version: 0.3.0.dev0
+2024-01-03 21:26:51,526 [INFO] Making IRFs for telescope stereo
+2024-01-03 21:26:51,526 [INFO] Getting MC info for /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/DL2_psf_vaod0.2/stereo/gamma_200_300E3GeV_30_30deg_testing_dl1_dl2.h5
+2024-01-03 21:28:04,533 [INFO] Input file: /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/DL2_psf_vaod0.2/stereo/gamma_200_300E3GeV_30_30deg_testing_dl1_dl2.h5
+2024-01-03 21:28:04,636 [INFO] Total N of events of stereo: 401479
+2024-01-03 21:28:04,637 [INFO] Performing event selection.
+2024-01-03 21:28:04,637 [INFO] Application of selection cuts:
+2024-01-03 21:28:04,637 [INFO] camera_frame_hillas_intensity_tel1: [50, 1000000]
+2024-01-03 21:28:04,645 [INFO] camera_frame_hillas_intensity_tel2: [50, 1000000]
+2024-01-03 21:28:04,654 [INFO] camera_frame_hillas_width_tel1: [0, 100]
+2024-01-03 21:28:04,662 [INFO] camera_frame_hillas_width_tel2: [0, 100]
+2024-01-03 21:28:04,671 [INFO] camera_frame_hillas_length_tel1: [0, 100]
+2024-01-03 21:28:04,678 [INFO] camera_frame_hillas_length_tel2: [0, 100]
+2024-01-03 21:28:04,687 [INFO] leakage_intensity_width_2_tel1: [0, 0.7]
+2024-01-03 21:28:04,695 [INFO] leakage_intensity_width_2_tel2: [0, 0.7]
+2024-01-03 21:28:04,912 [INFO] N of events of stereo after selection cuts: 330475
+2024-01-03 21:28:04,912 [INFO] DL2 data loaded as Astropy Table.
+2024-01-03 21:28:04,912 [INFO] Input file: /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/DL2_psf_vaod0.2/stereo/proton_400_500E3GeV_30_30deg_testing_dl1_dl2.h5
+2024-01-03 21:28:06,530 [INFO] Total N of events of stereo: 3005887
+2024-01-03 21:28:06,531 [INFO] Performing event selection.
+2024-01-03 21:28:06,531 [INFO] Application of selection cuts:
+2024-01-03 21:28:06,531 [INFO] camera_frame_hillas_intensity_tel1: [50, 1000000]
+2024-01-03 21:28:06,801 [INFO] camera_frame_hillas_intensity_tel2: [50, 1000000]
+2024-01-03 21:28:07,054 [INFO] camera_frame_hillas_width_tel1: [0, 100]
+2024-01-03 21:28:07,335 [INFO] camera_frame_hillas_width_tel2: [0, 100]
+2024-01-03 21:28:07,589 [INFO] camera_frame_hillas_length_tel1: [0, 100]
+2024-01-03 21:28:07,823 [INFO] camera_frame_hillas_length_tel2: [0, 100]
+2024-01-03 21:28:08,078 [INFO] leakage_intensity_width_2_tel1: [0, 0.7]
+2024-01-03 21:28:08,313 [INFO] leakage_intensity_width_2_tel2: [0, 0.7]
+2024-01-03 21:28:12,009 [INFO] N of events of stereo after selection cuts: 2452694
+2024-01-03 21:28:12,010 [INFO] DL2 data loaded as Astropy Table.
+2024-01-03 21:28:12,010 [INFO] Getting MC info for /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/DL2_psf_vaod0.2/stereo/proton_400_500E3GeV_30_30deg_testing_dl1_dl2.h5
+2024-01-03 21:30:49,667 [WARNING] Sum of histograms for production with e_min: 0.400000 doesn't match with n_showers*shower_reuse stored in the mc tab!!
+2024-01-03 21:30:49,669 [WARNING] CORRECTION OF SHOWER_REUSE APPLIED. New value: 100.000000
+2024-01-03 21:35:44,069 [INFO] 186905 gamma events after selection
+2024-01-03 21:35:44,070 [INFO] 67987 proton events after selection
+2024-01-03 21:35:44,079 [INFO] Average pointing: zenith: 29.999998, azimuth: 175.196306
+2024-01-03 21:35:44,079 [INFO] Range of zeniths: 0.000000
+2024-01-03 21:35:44,079 [INFO] Range of azimuths: 0.000000
+2024-01-03 21:35:44,089 [INFO] Making Effective area (full enclosure).
+2024-01-03 21:35:44,137 [INFO] Making Point Spread Function.
+2024-01-03 21:35:44,169 [WARNING] VerifyWarning: Keyword name 'point_like' is greater than 8 characters or contains characters not allowed by the FITS standard; a HIERARCH card will be created.
+2024-01-03 21:35:44,189 [INFO] Making Energy dispersion matrix.
+2024-01-03 21:35:44,227 [INFO] Making Background model.
+2024-01-03 21:35:44,252 [INFO] Created the output directory which didnt exist.
+2024-01-03 21:35:44,517 [INFO] IRFs stored in: /mnt/nfs22_auger/jurysek/SST1M/MC/prod_january_2023/v0.3.0/IRFs/data//sst1m_stereo/0_3/bcf/ze30_az180_nsb100_gc0.75/

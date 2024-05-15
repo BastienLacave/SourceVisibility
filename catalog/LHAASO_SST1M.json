@@ -1,0 +1,218 @@
+{"sources":[
+  {
+    "name": "1LHAASO J0007+7303u",
+    "ra": 1.48,
+    "dec": 73.15,
+    "weight": 1,
+    "other": "",
+    "flux": 4.5089999999999995e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J0428+5531*",
+    "ra": 67.23,
+    "dec": 55.53,
+    "weight": 1,
+    "other": "",
+    "flux": 4.257000000000001e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J0534+2200u",
+    "ra": 83.623,
+    "dec": 22.012,
+    "weight": 1,
+    "other": "Crab                  (0.01)",
+    "flux": 1.899e-11,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1104+3810",
+    "ra": 166.07,
+    "dec": 38.18,
+    "weight": 1,
+    "other": "Mrk 421         (0.02)",
+    "flux": 3.3120000000000004e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1653+3943",
+    "ra": 253.43,
+    "dec": 39.73,
+    "weight": 1,
+    "other": "Mrk 501         (0.04)",
+    "flux": 3.393e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1809-1918u",
+    "ra": 272.66,
+    "dec": -19.32,
+    "weight": 1,
+    "other": "",
+    "flux": 3.1140000000000003e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1814-1719u*",
+    "ra": 273.69,
+    "dec": -17.33,
+    "weight": 1,
+    "other": "2HWC J1814-173        (0.16)",
+    "flux": 2.385e-11,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1825-1418",
+    "ra": 276.29,
+    "dec": -14.32,
+    "weight": 1,
+    "other": "HESS J1825-137        (0.56)",
+    "flux": 3.528e-11,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1825-1256u",
+    "ra": 276.55,
+    "dec": -13.04,
+    "weight": 1,
+    "other": "",
+    "flux": 7.442999999999999e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1825-1337u",
+    "ra": 276.55,
+    "dec": -13.73,
+    "weight": 1,
+    "other": "",
+    "flux": 9.36e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1831-1007u*",
+    "ra": 277.75,
+    "dec": -10.12,
+    "weight": 1,
+    "other": "HESS J1831-098        (0.25)",
+    "flux": 1.6020000000000003e-11,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1834-0831",
+    "ra": 278.62,
+    "dec": -8.53,
+    "weight": 1,
+    "other": "HESS J1834-087        (0.24)",
+    "flux": 5.391000000000001e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1841-0519",
+    "ra": 280.33,
+    "dec": -5.33,
+    "weight": 1,
+    "other": "HESS J1841-055        (0.25)",
+    "flux": 1.3679999999999998e-11,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1843-0335u",
+    "ra": 281.01,
+    "dec": -3.5,
+    "weight": 1,
+    "other": "",
+    "flux": 8.109000000000001e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1850-0004u*",
+    "ra": 282.74,
+    "dec": -0.07,
+    "weight": 1,
+    "other": "HESS J1852-000        (0.36)",
+    "flux": 4.77e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1852+0050u*",
+    "ra": 283.73,
+    "dec": 1.4,
+    "weight": 1,
+    "other": "",
+    "flux": 4.2030000000000006e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1857+0245",
+    "ra": 284.37,
+    "dec": 2.75,
+    "weight": 1,
+    "other": "HESS J1857+026        (0.11)",
+    "flux": 3.636e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1908+0615u",
+    "ra": 287.05,
+    "dec": 6.26,
+    "weight": 1,
+    "other": "",
+    "flux": 7.173e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1912+1014u",
+    "ra": 288.22,
+    "dec": 10.25,
+    "weight": 1,
+    "other": "HESS J1912+101        (0.10)",
+    "flux": 2.763e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J1945+2424*",
+    "ra": 296.36,
+    "dec": 24.4,
+    "weight": 1,
+    "other": "2HWC J1949+244        (0.97)",
+    "flux": 3.843e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J2005+3415*",
+    "ra": 301.3,
+    "dec": 34.25,
+    "weight": 1,
+    "other": "2HWC J2006+341        (0.22)",
+    "flux": 3.177e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J2020+3638",
+    "ra": 305.14,
+    "dec": 36.63,
+    "weight": 1,
+    "other": "VER J2019+368         (0.28)",
+    "flux": 3.2310000000000003e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J2031+4127u",
+    "ra": 307.85,
+    "dec": 41.6,
+    "weight": 1,
+    "other": "",
+    "flux": 2.763e-12,
+    "flux_at": 3
+  },
+  {
+    "name": "1LHAASO J2229+5927u",
+    "ra": 337.26,
+    "dec": 59.45,
+    "weight": 1,
+    "other": "",
+    "flux": 1.341e-11,
+    "flux_at": 3
+  }
+]}
